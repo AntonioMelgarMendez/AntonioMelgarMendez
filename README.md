@@ -1,44 +1,45 @@
 <div align="center">
-  <h1 align="center">Hola, soy Daniel Méndez 👋</h1>
-  <h3 align="center">Full Stack Developer | Mobile Specialist | Ingeniería Informática Student</h3>
+  <h1 align="center">Hi, I'm Daniel Méndez 👋</h1>
+  <h3 align="center">Full Stack Developer | Mobile Specialist | Software Engineering Student</h3>
 </div>
 
 <p align="center">
   <a href="mailto:daniel2019659@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/tu-usuario-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/your-linkedin-username"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-### 🚀 Sobre Mí
+### 🚀 About Me
 
-Soy un **Full Stack Developer** apasionado por crear soluciones innovadoras. Mi enfoque principal está orientado al **Desarrollo Backend** y la arquitectura de software, con una fuerte especialización en el desarrollo móvil.
+I am a passionate **Full Stack Developer** dedicated to creating innovative solutions that bridge technology with business goals. While I have solid experience in both frontend and backend, my primary focus is on **Backend Development** and software architecture, with a strong specialization in **Mobile Development**.
 
-Disfruto el aprendizaje continuo y la optimización de procesos. Actualmente estudio **Ingeniería Informática** en la UCA y busco generar un impacto real a través de soluciones tecnológicas robustas.
+I enjoy continuous learning and process optimization. Currently, I am studying **Computer Engineering** at UCA, aiming to generate real impact through robust technological solutions.
 
-- 💼 Actualmente trabajando en: **Moovit** como **Desarrollador Móvil** 📱.
-- 🔭 Proyectos personales: **Apps con Jetpack Compose** y **Simuladores Web**.
-- 🌱 Aprendiendo: **Ruby** y profundizando en **Microservicios**.
-- 🗣️ Idiomas: **Español (Nativo)**, **Inglés (Profesional)**, **Francés (Básico)**.
+- 💼 Currently working at: **Moovit** as a **Mobile Developer** 📱.
+- 🔭 Personal projects: **Apps with Jetpack Compose** and **Web Simulators**.
+- 🌱 Currently learning: **Ruby** and deepening my knowledge in **Microservices**.
+- 🗣️ Languages: **Spanish (Native)**, **English (Professional)**, **French (Elementary)**.
 
 ---
 
-### 💼 Experiencia Profesional
+### 💼 Professional Experience
 
-| Organización | Rol | Ubicación |
+| Organization | Role | Location |
 | :--- | :--- | :--- |
-| **Moovit** 🚍 | **Desarrollador Móvil** | **El Salvador** 🇸🇻 |
-> *Desarrollando soluciones móviles innovadoras para mejorar la experiencia de transporte y movilidad urbana.*
+| **Moovit** 🚍 | **Mobile Developer** | **El Salvador** 🇸🇻 |
+> *Developing innovative mobile solutions to enhance the transportation and urban mobility experience.*
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 💻 Lenguajes
+Here are the technologies and tools I master and use in my projects:
+
+#### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -59,7 +60,7 @@ Disfruto el aprendizaje continuo y la optimización de procesos. Actualmente est
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-#### 🔙 Backend & Bases de Datos
+#### 🔙 Backend & Databases
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -69,7 +70,7 @@ Disfruto el aprendizaje continuo y la optimización de procesos. Actualmente est
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-#### ☁️ Cloud, DevOps & Herramientas
+#### ☁️ Cloud, DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -81,18 +82,18 @@ Disfruto el aprendizaje continuo y la optimización de procesos. Actualmente est
 
 ---
 
-### 📂 Otros Proyectos
+### 📂 Other Projects
 
-| Proyecto | Descripción | Stack |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Supervisión de Transporte Escolar** | Aplicación móvil para el monitoreo y gestión de transporte escolar. | `Jetpack Compose` `Android Studio` |
-| **Simulador de Circuitos Eléctricos** | Página web interactiva desarrollada como parte de proyección social universitaria. | `Web` `JS` |
+| **School Transport Supervision** | Mobile application for monitoring and managing school transportation. | `Jetpack Compose` `Android Studio` |
+| **Electrical Circuits Simulator** | Interactive web page developed as part of a university social outreach project. | `Web` `JS` |
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Lenguajes Top" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </div>
