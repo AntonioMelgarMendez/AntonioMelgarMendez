@@ -1,0 +1,29 @@
+{
+  "username": "AntonioMelgarMendez",
+  "updated": "2026-10-29",
+  "repositories": 65,
+  "stars": 1,
+  "forks": 0,
+  "followers": 4,
+  "commits": {
+    "year": 2026,
+    "count": 235,
+    "from": "2026-01-01",
+    "through": "2026-10-29",
+    "metric": "public authored commits indexed on default branches",
+    "query": "author:AntonioMelgarMendez is:public author-date:2026-01-01..2026-10-29"
+  },
+  "languages": {
+    "JavaScript": 16,
+    "Java": 12,
+    "HTML": 10,
+    "Kotlin": 6,
+    "C++": 3,
+    "TypeScript": 3,
+    "C": 2,
+    "AGS Script": 1,
+    "CSS": 1,
+    "Python": 1
+  },
+  "language_metric": "primary language by original public repository count"
+}
