@@ -21,9 +21,9 @@
     "C++": 3,
     "TypeScript": 3,
     "C": 2,
+    "Python": 2,
     "AGS Script": 1,
-    "CSS": 1,
-    "Python": 1
+    "CSS": 1
   },
   "language_metric": "primary language by original public repository count"
 }
